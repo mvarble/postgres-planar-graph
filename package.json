@@ -23,13 +23,13 @@
   },
   "homepage": "https://github.com/mvarble/postgres-planar-graph#readme",
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
-    "babel-loader": "^8.1.0",
-    "chai": "^4.2.0",
-    "mocha": "^7.1.1",
-    "pg": "^8.0.0",
-    "webpack": "^4.42.1",
-    "webpack-node-externals": "^1.7.2"
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "babel-loader": "^8.2.2",
+    "chai": "^4.3.4",
+    "mocha": "^9.0.3",
+    "pg": "^8.7.1",
+    "webpack": "^5.50.0",
+    "webpack-node-externals": "^3.0.0"
   }
 }

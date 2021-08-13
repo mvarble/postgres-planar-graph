@@ -51,7 +51,6 @@ const name = 'postgres-planar-graph'
 /**
  * database parsers
  */
-
 function mapIds(request, insertResponseRows) {
   const map = insertResponseRows.reduce((obj, row, i) => ({
     ...obj,
